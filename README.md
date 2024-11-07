@@ -1,5 +1,3 @@
-Para diseñar y planificar el Diagrama Entidad-Relación (DER) de tu proyecto de e-commerce, debes tener en cuenta las siguientes entidades y sus relaciones:
-
 ### Entidades Principales:
 
 1. **Usuario**
@@ -36,8 +34,6 @@ Para diseñar y planificar el Diagrama Entidad-Relación (DER) de tu proyecto de
 
 - **Usuario Administrador**: 
    - Puede modificar los atributos de los Productos, como `nombre`, `descripcion`, `precio`, `stock`, e `imagen_url`.
-
-Con estas entidades y relaciones, tu DER puede ser diagramado con los identificadores de claves primarias y foráneas correctamente definidos. Cada entidad debe reflejar claramente las relaciones establecidas, con especial atención a las claves externas que conectan las órdenes de compra con los usuarios y productos.
 
 <img src="./assets/tabla de relaciones.JPG"/>
 <img src="./assets/tabla usuarios.JPG"/>
