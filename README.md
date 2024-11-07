@@ -1,3 +1,5 @@
+### Tecnologias aplicadas 
+- Swagger API, Typescript, TypeORM, PostgreSQL, JWT service , Bcrypt, & Cloudinary.
 ### Entidades Principales:
 
 1. **Usuario**
