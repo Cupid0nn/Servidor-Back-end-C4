@@ -26,9 +26,9 @@ config({ path: '.env' });
       type: 'postgres',
       host: 'localhost',
       port: 5432,
-      username: 'postgres',
-      password: 'justicia3025',
-      database: 'm4database',
+      username: '',
+      password: '',
+      database: '',
       entities: [
         CategoryEntity,
         ProductEntity,
